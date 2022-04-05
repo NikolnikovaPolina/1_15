@@ -1,0 +1,12 @@
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\bin\Debug\1_лабораторная.exe.config
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\bin\Debug\1_лабораторная.exe
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\bin\Debug\1_лабораторная.pdb
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\_1_лабораторная.DateForm.resources
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\_1_лабораторная.MainForm.resources
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\_1_лабораторная.Properties.Resources.resources
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\1_лабораторная.csproj.GenerateResource.cache
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\1_лабораторная.csproj.CoreCompileInputs.cache
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\1_лабораторная.exe
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\1_лабораторная.pdb
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\1_лабораторная.csproj.AssemblyReference.cache
+C:\пары\2 курс\C#\2 семестр\1_лабораторная\obj\Debug\_1_лабораторная.FormInterval.resources
